@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x3dfe44ffef1c2dda0a7ab8d797f6c07ee7dfb2b5",
+  "SCAN_LINK": "https://polygonscan.com/address/0x3dfe44ffef1c2dda0a7ab8d797f6c07ee7dfb2b5",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Matic Zodiacs",
+  "SYMBOL": "MZT",
+  "MAX_SUPPLY": 5555,
+  "WEI_COST": 7000000000000000000,
+  "DISPLAY_COST": 7,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/maticzodiacs",
+  "SHOW_BACKGROUND": true
+}
